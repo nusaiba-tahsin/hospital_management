@@ -1,0 +1,45 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.body {
+    background-image: url(https://www.bostonmagazine.com/wp-content/uploads/sites/2/2021/01/Stethoscope.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 100vh;
+    min-width: 100vw;
+}
+
+.starting {
+    background-color: rgb(182, 220, 238);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 80px;
+    padding-right: 10px;
+    color: blue;
+}
+
+.logo {
+    height: 100px;
+    width: 100px;
+}
+
+.hosp_name {
+    font-size: 40px;
+    color: black;
+
+}
+
+.logo_name {
+    display: flex;
+    align-items: center;
+    justify-content: left;
+}
+
+
+.submenu {
+    display: flex;
+    gap: 16px;
+}
