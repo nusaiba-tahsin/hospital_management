@@ -12,7 +12,7 @@
 }
 
 .starting {
-    background-color: rgb(182, 220, 238);
+    background-color: rgba(159, 213, 238, 0.855);
     display: flex;
     justify-content: space-between;
     align-items: center;

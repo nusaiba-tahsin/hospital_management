@@ -1,0 +1,26 @@
+.appoinment {
+    font-size: 20px;
+    background-color: rgba(163, 212, 243, 0.789);
+    padding: 20px;
+    width: 500px;
+    margin: 0 auto;
+    margin-top: 200px;
+
+}
+
+.btn {
+    height: 60px;
+    width: 300px;
+    border-radius: 6px;
+    border: none;
+    margin: 25px;
+    font-size: 15px;
+    font-weight: bold;
+    cursor: pointer;
+    color: rgb(12, 12, 12);
+    background-color: rgb(111, 170, 241);
+}
+
+button:hover {
+    background-color: rgb(101, 172, 202);
+}

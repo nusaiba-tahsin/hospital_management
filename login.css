@@ -12,7 +12,7 @@
 .my-form {
     height: 300px;
     width: 300px;
-    background-color: rgb(160, 195, 226);
+    background-color: rgba(105, 157, 202, 0.781);
     padding: 8px;
     box-sizing: border-box;
     color: #fff;
